@@ -1,7 +1,8 @@
 # NISAR Forest Cover and Soil Moisture Analysis
 
-![Image](https://github.com/user-attachments/assets/dcd0e1a5-eb45-462a-8bda-2bbdb0a64849)
-
+<p align="center">
+  <img src="data/Forest cover.gif" width="700">
+</p>
 ---
 
 ## Overview
