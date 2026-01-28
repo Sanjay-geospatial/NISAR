@@ -1,5 +1,9 @@
 # NISAR Forest Cover and Soil Moisture Analysis
 
+![Image](https://github.com/user-attachments/assets/dcd0e1a5-eb45-462a-8bda-2bbdb0a64849)
+
+---
+
 ## Overview
 This project focuses on analyzing **NASA–ISRO SAR (NISAR)** data for:
 1. **Forest cover mapping** using **L-band SAR HH and HV polarizations**
